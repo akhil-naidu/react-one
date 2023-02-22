@@ -53,6 +53,11 @@
   width: 100%;
 }
 
+.center {
+  align-items: center;
+  padding-bottom: 1rem;
+}
+
 @media (min-width: 768px) {
   .place-item__image {
     height: 20rem;
